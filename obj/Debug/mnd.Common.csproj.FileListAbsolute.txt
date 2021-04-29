@@ -4,3 +4,10 @@ D:\01-Developer\Projects\Mnd\mndApp\Pandap.Common\bin\Debug\Pandap.Common.pdb
 D:\01-Developer\Projects\Mnd\mndApp\Pandap.Common\obj\Debug\mnd.Common.csproj.CoreCompileInputs.cache
 D:\01-Developer\Projects\Mnd\mndApp\Pandap.Common\obj\Debug\Pandap.Common.dll
 D:\01-Developer\Projects\Mnd\mndApp\Pandap.Common\obj\Debug\Pandap.Common.pdb
+D:\01-Developer\Projects\Mnd\MNDApp\mnd.Common\bin\Debug\Pandap.Common.dll.config
+D:\01-Developer\Projects\Mnd\MNDApp\mnd.Common\bin\Debug\Pandap.Common.dll
+D:\01-Developer\Projects\Mnd\MNDApp\mnd.Common\bin\Debug\Pandap.Common.pdb
+D:\01-Developer\Projects\Mnd\MNDApp\mnd.Common\obj\Debug\mnd.Common.csprojAssemblyReference.cache
+D:\01-Developer\Projects\Mnd\MNDApp\mnd.Common\obj\Debug\mnd.Common.csproj.CoreCompileInputs.cache
+D:\01-Developer\Projects\Mnd\MNDApp\mnd.Common\obj\Debug\Pandap.Common.dll
+D:\01-Developer\Projects\Mnd\MNDApp\mnd.Common\obj\Debug\Pandap.Common.pdb
